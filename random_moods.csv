@@ -1,0 +1,367 @@
+Date,Month,Day,Year,Mood
+1,January,Monday,2024,Mood
+2,January,Tuesday,2024,Mood
+3,January,Wednesday,2024,Not Mood
+4,January,Thursday,2024,Not Mood
+5,January,Friday,2024,Mood
+6,January,Saturday,2024,Mood
+7,January,Sunday,2024,Mood
+8,January,Monday,2024,Mood
+9,January,Tuesday,2024,Mood
+10,January,Wednesday,2024,Not Mood
+11,January,Thursday,2024,Mood
+12,January,Friday,2024,Not Mood
+13,January,Saturday,2024,Mood
+14,January,Sunday,2024,Mood
+15,January,Monday,2024,Mood
+16,January,Tuesday,2024,Not Mood
+17,January,Wednesday,2024,Mood
+18,January,Thursday,2024,Mood
+19,January,Friday,2024,Mood
+20,January,Saturday,2024,Mood
+21,January,Sunday,2024,Mood
+22,January,Monday,2024,Not Mood
+23,January,Tuesday,2024,Mood
+24,January,Wednesday,2024,Not Mood
+25,January,Thursday,2024,Mood
+26,January,Friday,2024,Mood
+27,January,Saturday,2024,Mood
+28,January,Sunday,2024,Not Mood
+29,January,Monday,2024,Not Mood
+30,January,Tuesday,2024,Not Mood
+31,January,Wednesday,2024,Not Mood
+1,February,Thursday,2024,Mood
+2,February,Friday,2024,Not Mood
+3,February,Saturday,2024,Mood
+4,February,Sunday,2024,Mood
+5,February,Monday,2024,Not Mood
+6,February,Tuesday,2024,Mood
+7,February,Wednesday,2024,Not Mood
+8,February,Thursday,2024,Not Mood
+9,February,Friday,2024,Mood
+10,February,Saturday,2024,Not Mood
+11,February,Sunday,2024,Mood
+12,February,Monday,2024,Mood
+13,February,Tuesday,2024,Mood
+14,February,Wednesday,2024,Mood
+15,February,Thursday,2024,Not Mood
+16,February,Friday,2024,Not Mood
+17,February,Saturday,2024,Mood
+18,February,Sunday,2024,Mood
+19,February,Monday,2024,Mood
+20,February,Tuesday,2024,Not Mood
+21,February,Wednesday,2024,Not Mood
+22,February,Thursday,2024,Mood
+23,February,Friday,2024,Not Mood
+24,February,Saturday,2024,Not Mood
+25,February,Sunday,2024,Not Mood
+26,February,Monday,2024,Mood
+27,February,Tuesday,2024,Mood
+28,February,Wednesday,2024,Mood
+29,February,Thursday,2024,Mood
+1,March,Friday,2024,Not Mood
+2,March,Saturday,2024,Mood
+3,March,Sunday,2024,Not Mood
+4,March,Monday,2024,Not Mood
+5,March,Tuesday,2024,Not Mood
+6,March,Wednesday,2024,Mood
+7,March,Thursday,2024,Not Mood
+8,March,Friday,2024,Mood
+9,March,Saturday,2024,Mood
+10,March,Sunday,2024,Not Mood
+11,March,Monday,2024,Not Mood
+12,March,Tuesday,2024,Not Mood
+13,March,Wednesday,2024,Not Mood
+14,March,Thursday,2024,Not Mood
+15,March,Friday,2024,Mood
+16,March,Saturday,2024,Mood
+17,March,Sunday,2024,Mood
+18,March,Monday,2024,Not Mood
+19,March,Tuesday,2024,Not Mood
+20,March,Wednesday,2024,Not Mood
+21,March,Thursday,2024,Not Mood
+22,March,Friday,2024,Mood
+23,March,Saturday,2024,Not Mood
+24,March,Sunday,2024,Not Mood
+25,March,Monday,2024,Mood
+26,March,Tuesday,2024,Mood
+27,March,Wednesday,2024,Not Mood
+28,March,Thursday,2024,Mood
+29,March,Friday,2024,Mood
+30,March,Saturday,2024,Mood
+31,March,Sunday,2024,Mood
+1,April,Monday,2024,Not Mood
+2,April,Tuesday,2024,Not Mood
+3,April,Wednesday,2024,Mood
+4,April,Thursday,2024,Not Mood
+5,April,Friday,2024,Not Mood
+6,April,Saturday,2024,Not Mood
+7,April,Sunday,2024,Not Mood
+8,April,Monday,2024,Not Mood
+9,April,Tuesday,2024,Not Mood
+10,April,Wednesday,2024,Mood
+11,April,Thursday,2024,Not Mood
+12,April,Friday,2024,Not Mood
+13,April,Saturday,2024,Not Mood
+14,April,Sunday,2024,Not Mood
+15,April,Monday,2024,Not Mood
+16,April,Tuesday,2024,Mood
+17,April,Wednesday,2024,Not Mood
+18,April,Thursday,2024,Mood
+19,April,Friday,2024,Mood
+20,April,Saturday,2024,Mood
+21,April,Sunday,2024,Not Mood
+22,April,Monday,2024,Mood
+23,April,Tuesday,2024,Not Mood
+24,April,Wednesday,2024,Mood
+25,April,Thursday,2024,Not Mood
+26,April,Friday,2024,Not Mood
+27,April,Saturday,2024,Not Mood
+28,April,Sunday,2024,Mood
+29,April,Monday,2024,Mood
+30,April,Tuesday,2024,Not Mood
+1,May,Wednesday,2024,Mood
+2,May,Thursday,2024,Not Mood
+3,May,Friday,2024,Not Mood
+4,May,Saturday,2024,Not Mood
+5,May,Sunday,2024,Not Mood
+6,May,Monday,2024,Not Mood
+7,May,Tuesday,2024,Mood
+8,May,Wednesday,2024,Mood
+9,May,Thursday,2024,Not Mood
+10,May,Friday,2024,Mood
+11,May,Saturday,2024,Not Mood
+12,May,Sunday,2024,Not Mood
+13,May,Monday,2024,Not Mood
+14,May,Tuesday,2024,Mood
+15,May,Wednesday,2024,Not Mood
+16,May,Thursday,2024,Mood
+17,May,Friday,2024,Not Mood
+18,May,Saturday,2024,Not Mood
+19,May,Sunday,2024,Mood
+20,May,Monday,2024,Mood
+21,May,Tuesday,2024,Mood
+22,May,Wednesday,2024,Mood
+23,May,Thursday,2024,Not Mood
+24,May,Friday,2024,Not Mood
+25,May,Saturday,2024,Not Mood
+26,May,Sunday,2024,Not Mood
+27,May,Monday,2024,Mood
+28,May,Tuesday,2024,Not Mood
+29,May,Wednesday,2024,Mood
+30,May,Thursday,2024,Not Mood
+31,May,Friday,2024,Not Mood
+1,June,Saturday,2024,Not Mood
+2,June,Sunday,2024,Mood
+3,June,Monday,2024,Not Mood
+4,June,Tuesday,2024,Not Mood
+5,June,Wednesday,2024,Mood
+6,June,Thursday,2024,Not Mood
+7,June,Friday,2024,Not Mood
+8,June,Saturday,2024,Mood
+9,June,Sunday,2024,Mood
+10,June,Monday,2024,Not Mood
+11,June,Tuesday,2024,Not Mood
+12,June,Wednesday,2024,Mood
+13,June,Thursday,2024,Not Mood
+14,June,Friday,2024,Mood
+15,June,Saturday,2024,Not Mood
+16,June,Sunday,2024,Mood
+17,June,Monday,2024,Not Mood
+18,June,Tuesday,2024,Not Mood
+19,June,Wednesday,2024,Mood
+20,June,Thursday,2024,Not Mood
+21,June,Friday,2024,Not Mood
+22,June,Saturday,2024,Mood
+23,June,Sunday,2024,Mood
+24,June,Monday,2024,Not Mood
+25,June,Tuesday,2024,Mood
+26,June,Wednesday,2024,Not Mood
+27,June,Thursday,2024,Not Mood
+28,June,Friday,2024,Mood
+29,June,Saturday,2024,Mood
+30,June,Sunday,2024,Not Mood
+1,July,Monday,2024,Mood
+2,July,Tuesday,2024,Mood
+3,July,Wednesday,2024,Not Mood
+4,July,Thursday,2024,Mood
+5,July,Friday,2024,Mood
+6,July,Saturday,2024,Not Mood
+7,July,Sunday,2024,Not Mood
+8,July,Monday,2024,Mood
+9,July,Tuesday,2024,Mood
+10,July,Wednesday,2024,Not Mood
+11,July,Thursday,2024,Not Mood
+12,July,Friday,2024,Mood
+13,July,Saturday,2024,Not Mood
+14,July,Sunday,2024,Not Mood
+15,July,Monday,2024,Mood
+16,July,Tuesday,2024,Not Mood
+17,July,Wednesday,2024,Not Mood
+18,July,Thursday,2024,Mood
+19,July,Friday,2024,Not Mood
+20,July,Saturday,2024,Mood
+21,July,Sunday,2024,Not Mood
+22,July,Monday,2024,Mood
+23,July,Tuesday,2024,Not Mood
+24,July,Wednesday,2024,Not Mood
+25,July,Thursday,2024,Not Mood
+26,July,Friday,2024,Mood
+27,July,Saturday,2024,Not Mood
+28,July,Sunday,2024,Mood
+29,July,Monday,2024,Not Mood
+30,July,Tuesday,2024,Mood
+31,July,Wednesday,2024,Mood
+1,August,Thursday,2024,Not Mood
+2,August,Friday,2024,Mood
+3,August,Saturday,2024,Mood
+4,August,Sunday,2024,Mood
+5,August,Monday,2024,Mood
+6,August,Tuesday,2024,Not Mood
+7,August,Wednesday,2024,Mood
+8,August,Thursday,2024,Mood
+9,August,Friday,2024,Mood
+10,August,Saturday,2024,Not Mood
+11,August,Sunday,2024,Mood
+12,August,Monday,2024,Mood
+13,August,Tuesday,2024,Mood
+14,August,Wednesday,2024,Mood
+15,August,Thursday,2024,Mood
+16,August,Friday,2024,Not Mood
+17,August,Saturday,2024,Not Mood
+18,August,Sunday,2024,Mood
+19,August,Monday,2024,Not Mood
+20,August,Tuesday,2024,Not Mood
+21,August,Wednesday,2024,Mood
+22,August,Thursday,2024,Mood
+23,August,Friday,2024,Mood
+24,August,Saturday,2024,Mood
+25,August,Sunday,2024,Not Mood
+26,August,Monday,2024,Not Mood
+27,August,Tuesday,2024,Not Mood
+28,August,Wednesday,2024,Not Mood
+29,August,Thursday,2024,Mood
+30,August,Friday,2024,Mood
+31,August,Saturday,2024,Not Mood
+1,September,Sunday,2024,Not Mood
+2,September,Monday,2024,Not Mood
+3,September,Tuesday,2024,Not Mood
+4,September,Wednesday,2024,Not Mood
+5,September,Thursday,2024,Mood
+6,September,Friday,2024,Not Mood
+7,September,Saturday,2024,Mood
+8,September,Sunday,2024,Not Mood
+9,September,Monday,2024,Not Mood
+10,September,Tuesday,2024,Mood
+11,September,Wednesday,2024,Mood
+12,September,Thursday,2024,Not Mood
+13,September,Friday,2024,Mood
+14,September,Saturday,2024,Mood
+15,September,Sunday,2024,Not Mood
+16,September,Monday,2024,Not Mood
+17,September,Tuesday,2024,Mood
+18,September,Wednesday,2024,Mood
+19,September,Thursday,2024,Not Mood
+20,September,Friday,2024,Mood
+21,September,Saturday,2024,Not Mood
+22,September,Sunday,2024,Not Mood
+23,September,Monday,2024,Mood
+24,September,Tuesday,2024,Mood
+25,September,Wednesday,2024,Not Mood
+26,September,Thursday,2024,Mood
+27,September,Friday,2024,Mood
+28,September,Saturday,2024,Not Mood
+29,September,Sunday,2024,Not Mood
+30,September,Monday,2024,Not Mood
+1,October,Tuesday,2024,Mood
+2,October,Wednesday,2024,Mood
+3,October,Thursday,2024,Not Mood
+4,October,Friday,2024,Mood
+5,October,Saturday,2024,Mood
+6,October,Sunday,2024,Not Mood
+7,October,Monday,2024,Mood
+8,October,Tuesday,2024,Not Mood
+9,October,Wednesday,2024,Mood
+10,October,Thursday,2024,Not Mood
+11,October,Friday,2024,Mood
+12,October,Saturday,2024,Mood
+13,October,Sunday,2024,Mood
+14,October,Monday,2024,Mood
+15,October,Tuesday,2024,Mood
+16,October,Wednesday,2024,Not Mood
+17,October,Thursday,2024,Mood
+18,October,Friday,2024,Not Mood
+19,October,Saturday,2024,Not Mood
+20,October,Sunday,2024,Mood
+21,October,Monday,2024,Mood
+22,October,Tuesday,2024,Not Mood
+23,October,Wednesday,2024,Not Mood
+24,October,Thursday,2024,Mood
+25,October,Friday,2024,Mood
+26,October,Saturday,2024,Mood
+27,October,Sunday,2024,Mood
+28,October,Monday,2024,Not Mood
+29,October,Tuesday,2024,Mood
+30,October,Wednesday,2024,Not Mood
+31,October,Thursday,2024,Not Mood
+1,November,Friday,2024,Mood
+2,November,Saturday,2024,Not Mood
+3,November,Sunday,2024,Mood
+4,November,Monday,2024,Not Mood
+5,November,Tuesday,2024,Mood
+6,November,Wednesday,2024,Not Mood
+7,November,Thursday,2024,Mood
+8,November,Friday,2024,Mood
+9,November,Saturday,2024,Not Mood
+10,November,Sunday,2024,Mood
+11,November,Monday,2024,Mood
+12,November,Tuesday,2024,Not Mood
+13,November,Wednesday,2024,Not Mood
+14,November,Thursday,2024,Mood
+15,November,Friday,2024,Not Mood
+16,November,Saturday,2024,Not Mood
+17,November,Sunday,2024,Not Mood
+18,November,Monday,2024,Mood
+19,November,Tuesday,2024,Mood
+20,November,Wednesday,2024,Not Mood
+21,November,Thursday,2024,Mood
+22,November,Friday,2024,Not Mood
+23,November,Saturday,2024,Mood
+24,November,Sunday,2024,Mood
+25,November,Monday,2024,Mood
+26,November,Tuesday,2024,Mood
+27,November,Wednesday,2024,Mood
+28,November,Thursday,2024,Mood
+29,November,Friday,2024,Not Mood
+30,November,Saturday,2024,Not Mood
+1,December,Sunday,2024,Not Mood
+2,December,Monday,2024,Not Mood
+3,December,Tuesday,2024,Not Mood
+4,December,Wednesday,2024,Not Mood
+5,December,Thursday,2024,Not Mood
+6,December,Friday,2024,Mood
+7,December,Saturday,2024,Mood
+8,December,Sunday,2024,Mood
+9,December,Monday,2024,Not Mood
+10,December,Tuesday,2024,Not Mood
+11,December,Wednesday,2024,Mood
+12,December,Thursday,2024,Mood
+13,December,Friday,2024,Mood
+14,December,Saturday,2024,Not Mood
+15,December,Sunday,2024,Not Mood
+16,December,Monday,2024,Not Mood
+17,December,Tuesday,2024,Mood
+18,December,Wednesday,2024,Not Mood
+19,December,Thursday,2024,Not Mood
+20,December,Friday,2024,Not Mood
+21,December,Saturday,2024,Mood
+22,December,Sunday,2024,Not Mood
+23,December,Monday,2024,Mood
+24,December,Tuesday,2024,Not Mood
+25,December,Wednesday,2024,Mood
+26,December,Thursday,2024,Not Mood
+27,December,Friday,2024,Not Mood
+28,December,Saturday,2024,Mood
+29,December,Sunday,2024,Mood
+30,December,Monday,2024,Mood
+31,December,Tuesday,2024,Mood
