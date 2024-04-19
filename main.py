@@ -20,7 +20,7 @@ def later():
 
 def is_data_exist_for_today():
 
-    with open('reportmood.csv', 'r') as file:
+    with open('random_data.csv', 'r') as file:
         reader = csv.reader(file)
         for row in reader:
             if row[2] == day and int(row[1]) == month and int(row[3]) == year:
