@@ -5,7 +5,6 @@ import plotly
 import plotly.express as px
 from datetime import datetime
 import time
-from flask_paginate import Pagination, get_page_args
 import dash_bootstrap_components as dbc
 from dash_bootstrap_templates import load_figure_template
 
@@ -34,7 +33,7 @@ def get_table(offset=0, per_page=10):
 
 @app.route('/')
 def dashboard():
-    data = pd.read_csv('reportmood.csv')
+    data = pd.read_csv('random_data.csv')
 
 
 

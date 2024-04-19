@@ -1,6 +1,5 @@
 import csv
 from datetime import datetime
-import os
 import time
 
 now = datetime.now()
@@ -32,7 +31,6 @@ def is_data_exist_for_today():
 def Mood ():
     if is_data_exist_for_today():
         print("You already report mood.")
-        print("Shutdown....")
         countdown()
         return
 
@@ -47,15 +45,12 @@ def Mood ():
     write.writerows(data)
 
     print('Yeayy nice bro. hope tommorow your mood same like today')
-    print('Shutdown...')
     countdown()
 
 def NotMood ():
     if is_data_exist_for_today():
         print("You already report mood.")
-        print("Shutdown....")
         countdown()
-        os.system('systemctl poweroff') 
         return
 
     data = [
@@ -69,13 +64,11 @@ def NotMood ():
     write.writerows(data)
 
     print('Ah Hope you get mood better')
-    print('Shutdown...')
     countdown()
 
 def selection():
     if is_data_exist_for_today():
         print("You already report mood.")
-        print("Shutdown....")
         countdown()
         return
 
