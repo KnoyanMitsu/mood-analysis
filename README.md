@@ -17,13 +17,13 @@ pip install -r requirement.txt
 ```
 
 
-<h2>To Add Your mood</h2>
+<h2>Add Your mood</h2>
 
 ```
 python main.py
 ```
 
-<h2>To see your mood</h2>
+<h2>see your mood</h2>
 
 ```
 python dashboard.py
