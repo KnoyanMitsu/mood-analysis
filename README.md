@@ -1,6 +1,12 @@
 <h1>Analysis Your Mood</h1>
 <p>Just small project with plotly and flask (this project just i learn plotly and flask XD)</p>
 
+<p>This repo will analyze your mood every time you fill with this repo. so there are 2 choices there is a mood and not mood </p>
+
+for the main.py view like this:
+![image](https://github.com/KnoyanMitsu/mood-analysis/assets/65282316/38f1b1dd-e05a-4772-a6d7-c586a3132392)
+
+
 <h1>Installation</h1>
 
 ```
