@@ -9,9 +9,13 @@ month = now.strftime("%B")
 year = now.year
 
 
+nowtime = datetime.now().time()
+target_time = datetime.strptime("19:00:00", "%H:%M:%S").time()
+
+
 def countdown():
     for i in range(5, 0, -1):
-        print(i)
+        print(i)    
         time.sleep(1)
 
 def later():
@@ -20,12 +24,21 @@ def later():
 
 def is_data_exist_for_today():
 
-    with open('random_data.csv', 'r') as file:
+    with open('reportmood.csv', 'r') as file:
         reader = csv.reader(file)
         for row in reader:
-            if row[2] == day and int(row[1]) == month and int(row[3]) == year:
+            if row[2] == day and (row[1]) == month and int(row[3]) == year:
                 return True
     return False
+
+
+def time_to_report():
+
+    if nowtime >= target_time:
+        return False
+    else:
+        return True
+
 
 
 def Mood ():
@@ -69,6 +82,11 @@ def NotMood ():
 def selection():
     if is_data_exist_for_today():
         print("You already report mood.")
+        countdown()
+        return
+        
+    if time_to_report():
+        print("Report Mood Closed.come back on 7:00PM/19:00")
         countdown()
         return
 
